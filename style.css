@@ -92,6 +92,11 @@
     background-color:green;
     width: 75%;
     height: 200px;
+    float: center;
+}
+
+.layout-2 section article{ 
+    background-color: yellow;
 }
 
 .article2{
@@ -111,7 +116,7 @@
 .aside-info{
     background-color:aqua;
     float: right;
-    padding: 2px;
+    width: 75px;
 }
 
 .layout-2 img{
@@ -121,7 +126,6 @@
 
 .layout-2 footer{
     text-align: center;
-    clear: both;
 }
 
 .layout-3 header{
@@ -133,7 +137,7 @@
 #sectionHeader3{
     background-color:blue;
     float: right;
-    width: 60%;
+    width: 85%;
     height: 30%;
 }
 
@@ -148,7 +152,7 @@
 .layout-3 section article{
     background-color:orange;
     float: right;
-    width: 60%;
+    width: 85%;
 }
 
 .layout-3 aside{
