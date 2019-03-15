@@ -38,20 +38,21 @@
 .layout-1 #sectionHeader{
     background-color:yellow;
     float: left;
-    height: 40px;
-    width: 60%;
+    height: 27px;
+    width: 65%;
  }
 
 .layout-1 article{
     background-color:orange;
     float: left;
-    width: 60%;
+    height: 100px;
+    width: 102%;
 }
 .layout-1 aside{
     background-color:purple;
     float: right;
-    height: 150px;
-    width: 40%;
+    height: 130px;
+    width: 35%;
 }
 
 .layout-1 aside a{
@@ -79,9 +80,8 @@
 .layout-2 nav{
     background-color:blue;
     float: left;
-    height: 200px;
-    width: 20%
-
+    height: 150px;
+    width: 20%;
 }
 
 .layout-2 nav a{
@@ -90,9 +90,8 @@
 
 .layout-2 section{
     background-color:green;
-    
+    width: 75%;
     height: 200px;
-    float: center;
 }
 
 .article2{
@@ -121,7 +120,7 @@
 }
 
 .layout-2 footer{
-    
+    text-align: center;
 }
 
 .layout-3 header{
@@ -154,11 +153,11 @@
 .layout-3 aside{
     background-color:purple;
     float: right;
-    padding-right: 50px;
 }
 
 #pageFooter{
     background-color:green;
     width: 100%;
+    height: 50px;
     float: center;
 }
