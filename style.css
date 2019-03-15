@@ -121,6 +121,7 @@
 
 .layout-2 footer{
     text-align: center;
+    clear: both;
 }
 
 .layout-3 header{
@@ -131,9 +132,9 @@
 
 #sectionHeader3{
     background-color:blue;
-    float: center;
-    width: 90%;
-    height: 80px;
+    float: right;
+    width: 80%;
+    height: 30%;
 }
 
 
@@ -141,19 +142,19 @@
     background-color:yellow;
     float: left;
     width: 15%;
-    height: 20px;
+    height: 27px;
 }
 
 .layout-3 section article{
     background-color:orange;
-    float: center;
-    width: 90%;
+    float: right;
+    width: 80%;
 }
 
 .layout-3 aside{
     background-color:purple;
     float: right;
-    width: 33%;
+    width: 26%;
 }
 
 #pageFooter{
