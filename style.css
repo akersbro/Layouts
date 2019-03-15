@@ -133,7 +133,7 @@
 #sectionHeader3{
     background-color:blue;
     float: right;
-    width: 80%;
+    width: 75%;
     height: 30%;
 }
 
@@ -142,13 +142,13 @@
     background-color:yellow;
     float: left;
     width: 15%;
-    height: 27px;
+    height: 20px;
 }
 
 .layout-3 section article{
     background-color:orange;
     float: right;
-    width: 80%;
+    width: 75%;
 }
 
 .layout-3 aside{
